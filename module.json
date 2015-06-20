@@ -1,0 +1,6 @@
+{
+	"seiyria/bootstrap-slider": {
+		"js": ["dist/bootstrap-slider.min.js"],
+		"css": ["dist/css/bootstrap-slider.css"]
+	}
+}
